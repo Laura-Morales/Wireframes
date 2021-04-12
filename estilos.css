@@ -1,6 +1,5 @@
 /*Wireframe 1*/
 /*menu*/
-
 .box{
 	background-color: #343a40;
 	height: 100px;
@@ -858,9 +857,9 @@
 	position: absolute;
 	font-size: 3.5em;
 	color: white;
-	padding-top: 200px;
+	padding-top: 800px;
 	padding-left: 800px;
-	z-index: 15
+	z-index: 14
 }
 .texto37{
  	position: absolute;
@@ -1353,7 +1352,7 @@
 	text-align: justify;
 	z-index: 16	
 }
-/*wireframe 7*/
+/*wireframe 8*/
 /*menu*/
 .caja86{
 	background-color: grey;
@@ -1430,12 +1429,12 @@
 	z-index: 3
 }
 /*cajas y texto izquierda*/
-.text17{
+.text27{
 	position: absolute;
 	font-size: 3em;
 	color: white;
-	margin-left: 30px;
-	margin-top: 450px;
+	margin-left: 920px;
+	margin-top: 480px;
 	z-index: 4
 }
 .texto61{
@@ -1882,4 +1881,5 @@
 	animation: zoomInDown;
 	animation-duration: 1s;	
 }
+
 
