@@ -1693,3 +1693,193 @@
 	text-align: justify;
 	z-index: 5
 }
+/*animate.css*/
+/*wireframe1*/
+.animacion{
+	display: inline-block;
+	animation: backInDown;
+	animation-duration: 1s;
+}
+.animacion1{
+	display: inline-block;
+	animation: bounceInLeft;
+	animation-duration: 1s;
+	animation-delay: 2s;
+}
+.animacion2{
+	display: inline-block;
+	animation: bounceInRight;
+	animation-duration: 2s;
+	animation-delay: 3s;
+}
+.animacion3{
+	display: inline-block;
+	animation: bounceInRight;
+	animation-duration: 2s;
+	animation-delay: 4s;
+}
+.animacion4{
+	display: inline-block;
+	animation: bounceInRight;
+	animation-duration: 2s;
+	animation-delay: 5s;
+}
+.animacion5{
+	display: inline-block;
+	animation: bounceInRight;
+	animation-duration: 2s;
+	animation-delay: 6s;
+}
+.animacion6{
+	display: inline-block;
+	animation: slideInUp;
+	animation-duration: 2s;
+	animation-delay: 7s;
+}
+.animacion7{
+	display: inline-block;
+	animation: flipInX;
+	animation-duration: 2s;
+	animation-delay: 8s;
+}
+.animacion8{
+	display: inline-block;
+	animation: flipInY;
+	animation-duration: 2s;
+	animation-delay: 9s;
+}
+.animacion9{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 10s;
+}
+.animacion10{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 11s;
+}
+.animacion11{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 12s;
+}
+.animacion12{
+	display: inline-block;
+	animation: flipInX;
+	animation-duration: 2s;
+	animation-delay: 13s;
+}
+.animacion13{
+	display: inline-block;
+	animation: flipInY;
+	animation-duration: 2s;
+	animation-delay: 14s;
+}
+.animacion14{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 15s;
+}
+
+.animacion15{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 16s;
+}
+
+.animacion16{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 17s;
+}
+.animacion17{
+	display: inline-block;
+	animation: slideInRight;
+	animation-duration: 2s;
+	animation-delay: 18s;
+}
+.animacion18{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 19s;
+}
+.animacion19{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 20s;
+}
+.animacion20{
+	display: inline-block;
+	animation: flipInX;
+	animation-duration: 2s;
+	animation-delay: 21s;
+}
+.animacion21{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 22s;
+}
+.animacion22{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 23s;
+}
+.animacion23{
+	display: inline-block;
+	animation: flipInX;
+	animation-duration: 2s;
+	animation-delay: 24s;
+}
+.animacion24{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 25s;
+}
+.animacion25{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 26s;
+}
+.animacion26{
+	display: inline-block;
+	animation: flipInX;
+	animation-duration: 2s;
+	animation-delay: 27s;
+}
+.animacion27{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 28s;
+}
+.animacion28{
+	display: inline-block;
+	animation: zoomIn;
+	animation-duration: 2s;
+	animation-delay: 29s;
+}
+.animacion29{
+	display: inline-block;
+	animation: flipInX;
+	animation-duration: 2s;
+	animation-delay: 30s;
+}
+/*wireframe2*/
+.animacion30{
+	display: inline-block;
+	animation: zoomInDown;
+	animation-duration: 1s;	
+}
+
